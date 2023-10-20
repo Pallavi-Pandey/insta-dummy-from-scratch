@@ -1,0 +1,2 @@
+- Step 1
+    - Create empty DB with / route. Config for DB creation, Initialize API
