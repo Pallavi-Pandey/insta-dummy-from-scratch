@@ -1,6 +1,7 @@
 from flask import Flask, render_template
 from backend.config import Config
 from backend.database import db 
+from backend.models import *
 from flask_restful import Api
 
 def create_app():

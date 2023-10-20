@@ -1,2 +1,4 @@
 - Step 1
     - Create empty DB with / route. Config for DB creation, Initialize API
+- Step 2
+    - Add and Verify DB Models in DB file.
